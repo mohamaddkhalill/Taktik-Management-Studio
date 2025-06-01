@@ -1,4 +1,3 @@
-# Taktik-Management-Studio
 # Taktik Management Studio v1.0.0
 
 📅 Released: June 2025  
