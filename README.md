@@ -7,6 +7,8 @@
 
 Taktik Management Studio is a comprehensive desktop tool for TikTok livestream analytics and monitoring. This initial release provides streamers and social media managers with powerful real-time tracking capabilities for viewer engagement.
 
+https://github.com/mohamaddkhalill/Taktik-Management-Studio/blob/2892a2375ee8326b9317dde01f24abe8db91684f/1.png
+
 ### What's Included
 
 - **Windows Executable**: No installation required, runs on any Windows 7/8/10/11 system
